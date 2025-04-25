@@ -1,1 +1,1 @@
-# daup_project
+DAUP_PROJECT
